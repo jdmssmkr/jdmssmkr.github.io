@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jdmssmkr.github.io/sitemap.xml
